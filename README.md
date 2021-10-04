@@ -1,3 +1,4 @@
+# Jdbc, JSP, Servlet, JDBC, JPA, Struts, Hibernate, Spring, Spring MVC, Mybatis, RestFul 
 1.	Java fullStack
 2.	frontEnd(20%) -> html,css,javaScript,jquery,ajax,bootstrap,vue,angular,react
 3.	backend(80%)->
